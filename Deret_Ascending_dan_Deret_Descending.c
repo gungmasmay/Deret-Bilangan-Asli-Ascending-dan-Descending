@@ -3,7 +3,7 @@
 
 int main (){
     
-    system("cls");
+    system("cls"); //membersihkan terminal
     int pil, awal, akhir;
     printf("Program Deret Bilangan Asli  \n");
     printf("-------------------------------- \n");
